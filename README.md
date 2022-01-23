@@ -1,6 +1,7 @@
 # Min egen TODO react app
 
-Jeg har på det sidste gjort forsøg på at lære react, så jeg kan komme tættere på mit mål, om at lave basket app, hvor jeg så vil have react som frontend, og Java (Spring) som backend.
+Jeg har på det sidste gjort forsøg på at lære react, og besluttede mig derfor at prøve at se om jeg kunne lave en todo app helt fra bunden af! Og det synes jeg selv gik rigtigt godt!
+
 
 Start hjemmesiden:
 
